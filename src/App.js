@@ -58,9 +58,6 @@ function Board({ xIsNext, squares, onPlay }) {
 
   //   }
   // }
-
-
-  
   return (
     <>
       <div className="status">{status}</div>
